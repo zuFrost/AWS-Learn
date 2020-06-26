@@ -1,1 +1,20 @@
 # AWS-Learn
+## 1. AWS - Amazon Web Services - Что это и почему тебе это нужно
+&#9679; Virtual Servers -EC2 Instances <br>
+&#9679; Virtual Network - VPC <br>
+&#9679; Unlimited Web Space - S3 Bucket <br>
+&#9679; Web Sites Hosting - S3 Web Hosting <br>
+&#9679; Domain registration, DNS - Route53 <br>
+&#9679; SQL and NoSQL Databases - RDS, DynamoDB <br>
+&#9679; Infrastructure as Code - CloudFormation <br>
+&#9679; Automation - Elastic Beanstalk <br>
+&#9679; DevOps <br>
+&#9679; other... <br>
+<br>
+![AWS book](https://github.com/zuFrost/AWS-Learn/blob/master/01%20AWS%20-%20Amazon%20Web%20Services%20-%20%D0%A7%D1%82%D0%BE%20%D1%8D%D1%82%D0%BE%20%D0%B8%20%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83%20%D1%82%D0%B5%D0%B1%D0%B5%20%D1%8D%D1%82%D0%BE%20%D0%BD%D1%83%D0%B6%D0%BD%D0%BE/img/51cjIALRSQL._SX395_BO1%2C204%2C203%2C200_.jpg) <br>
+Book: ![AWS Certified Solutions Architect Official Study Guide](https://www.amazon.com/Certified-Solutions-Architect-Official-Study/dp/1119138558) <br> 
+<br>
+# 2. AWS - Сертификаты Amazon Web Services
+![cetrifications](https://github.com/zuFrost/AWS-Learn/blob/master/02%20AWS%20-%20%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20Amazon%20Web%20Services/img/certifications.png)<br>
+
+
