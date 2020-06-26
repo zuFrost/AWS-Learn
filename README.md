@@ -1,6 +1,6 @@
 # AWS-Learn by  Denis Astahov, ADV-IT.
 https://www.linkedin.com/in/denis-astahov/<br>
-https://www.youtube.com/channel/UC-sAMvDe7gTmBbub-rWljZg<br>
+https://www.youtube.com/playlist?list=PLg5SS_4L6LYsxrZ_4xE_U95AtGsIB96k9<br>
 ## 1. AWS - Amazon Web Services - Что это и почему тебе это нужно
 &#9679; Virtual Servers -EC2 Instances <br>
 &#9679; Virtual Network - VPC <br>
@@ -26,4 +26,8 @@ Book: ![AWS Certified Solutions Architect Official Study Guide](https://www.amaz
 
 # 5. AWS - Настройка профиля
 
+# 6. AWS - Создание Халявного Web Сервера на базе Windows Server
+
+
+# 35. AWS - Billing Alarms! - Как не влететь на деньги с AWS
 
