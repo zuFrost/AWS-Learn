@@ -1,4 +1,6 @@
-# AWS-Learn by  ![Denis Astahov](https://www.linkedin.com/in/denis-astahov/) ![ADV-IT](https://www.youtube.com/channel/UC-sAMvDe7gTmBbub-rWljZg)
+# AWS-Learn by  Denis Astahov, ADV-IT.
+https://www.linkedin.com/in/denis-astahov/<br>
+https://www.youtube.com/channel/UC-sAMvDe7gTmBbub-rWljZg<br>
 ## 1. AWS - Amazon Web Services - Что это и почему тебе это нужно
 &#9679; Virtual Servers -EC2 Instances <br>
 &#9679; Virtual Network - VPC <br>
