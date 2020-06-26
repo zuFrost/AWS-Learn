@@ -27,8 +27,10 @@ Book: ![AWS Certified Solutions Architect Official Study Guide](https://www.amaz
 # 5. AWS - Настройка профиля
 
 # 6. AWS - Создание Халявного Web Сервера на базе Windows Server
+ISS + index.html file <br>
 
 # 7. AWS - Создание Халявного Web Сервера на базе Linux Server
+httpd + index.html file <br>
 
 # 35. AWS - Billing Alarms! - Как не влететь на деньги с AWS
 Со времени снятия ролика интерфейс поменялся. Актуальная информация на сайте https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html
