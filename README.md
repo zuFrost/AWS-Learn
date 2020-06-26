@@ -17,4 +17,7 @@ Book: ![AWS Certified Solutions Architect Official Study Guide](https://www.amaz
 # 2. AWS - Сертификаты Amazon Web Services
 ![cetrifications](https://github.com/zuFrost/AWS-Learn/blob/master/02%20AWS%20-%20%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20Amazon%20Web%20Services/img/certifications.png)<br>
 
+# 3. AWS - Инфраструктура и Сервисы
+![AWS services](https://github.com/zuFrost/AWS-Learn/blob/master/03%20AWS%20-%20%D0%98%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D0%B8%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/img/AWS%20services.png)<br>
 
+# 4. AWS - Открытие бесплатного аккаунта Free Tier
