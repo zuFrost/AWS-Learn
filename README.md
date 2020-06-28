@@ -33,6 +33,12 @@ ISS + index.html file <br>
 httpd + index.html file <br>
 
 # 8. AWS - Установка AWS CLI на Windows и Linux
+Ubuntu:   <br>
+\$ sudo apt-get install awscli <br>
+RedHat:  <br>
+\$ sudo yum install awscli <br>
+Также на Linux и Windows можно установить через Python: (mast be installed)<br>
+pip install awscli <br>
 
 # 35. AWS - Billing Alarms! - Как не влететь на деньги с AWS
 Со времени снятия ролика интерфейс поменялся. Актуальная информация на сайте https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html
