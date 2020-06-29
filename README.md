@@ -86,7 +86,7 @@ S3 - Simple Storage Service <br>
 # 14. AWS - S3 Bucket Часть-5 - Logging, Создание Static Web Site
 
 # 15. AWS - S3 Bucket Часть-6 - Работа через AWS CLI
-#### ![AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/index.html) <br>
+#### https://docs.aws.amazon.com/cli/latest/index.html <br>
 aws s3 ls <br>
 aws s3 mb s3://mynewbucket --profile=reader<br>
 aws s3 mb s3://mynewbucketinwestusa  --region=us-west-1 <br>
