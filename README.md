@@ -85,6 +85,8 @@ S3 - Simple Storage Service <br>
 
 # 14. AWS - S3 Bucket Часть-5 - Logging, Создание Static Web Site
 
+# 15. AWS - S3 Bucket Часть-6 - Работа через AWS CLI
+
 # 35. AWS - Billing Alarms! - Как не влететь на деньги с AWS
 Со времени снятия ролика интерфейс поменялся. Актуальная информация на сайте https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html
 ![cloudwatch](https://github.com/zuFrost/AWS-Learn/blob/master/35%20AWS%20-%20Billing%20Alarms!%20-%20%D0%9A%D0%B0%D0%BA%20%D0%BD%D0%B5%20%D0%B2%D0%BB%D0%B5%D1%82%D0%B5%D1%82%D1%8C%20%D0%BD%D0%B0%20%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8%20%D1%81%20AWS/img/cloudwatch.png)<br>
