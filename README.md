@@ -48,10 +48,13 @@ Default region name [None]: eu-central-1  <br>
 Default output format [None]: json <br>
 ![aws config file](https://github.com/zuFrost/AWS-Learn/blob/master/09%20AWS%20-%20%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20IAM%2C%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20Users%2C%20Groups%20%D0%B8%20Access%20Keys/img/aws%20config%20file.png) <br>
 ![aws credentials file](https://github.com/zuFrost/AWS-Learn/blob/master/09%20AWS%20-%20%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20IAM%2C%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20Users%2C%20Groups%20%D0%B8%20Access%20Keys/img/aws%20credentials%20file.png) <br>
+All users was deleted! Keep you credentials in secure! <br>
 ### CLI commands: 
 #### ![AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/index.html) <br>
 #### Examples:
 \$ aws ec2 describe-instances <br>
+
+# 10. AWS - S3 Bucket Часть-1 - Возможности Сервиса
 
 
 
