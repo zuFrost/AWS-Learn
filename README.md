@@ -55,9 +55,16 @@ All users was deleted! Keep you credentials in secure! <br>
 \$ aws ec2 describe-instances <br>
 
 # 10. AWS - S3 Bucket Часть-1 - Возможности Сервиса
-
-
-
+S3 - Simple Storage Service <br>
+Гарантируется: <br>
+&#9679; 99.99% availability <br>
+&#9679; 99.999999999% durability (11 9's) <br>
+Используется для:
+&#9679; Backup & Recovery <br>
+&#9679; Data Archiving <br>
+&#9679; Big Data Analytics <br>
+&#9679; Static Web Sites <br>
+&#9679; Internet Share Drives <br>
 
 # 35. AWS - Billing Alarms! - Как не влететь на деньги с AWS
 Со времени снятия ролика интерфейс поменялся. Актуальная информация на сайте https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html
