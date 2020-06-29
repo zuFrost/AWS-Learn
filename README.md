@@ -72,7 +72,7 @@ S3 - Simple Storage Service <br>
  <br>
 4 - Amazon S3 Glacier <br>
 Устаревшая таблица производительности. <br>
-![Perfomance across the S3 Storage Classes]() <br>
+![Perfomance across the S3 Storage Classes](https://github.com/zuFrost/AWS-Learn/blob/master/10%20AWS%20-%20S3%20Bucket%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C-1%20-%20%D0%92%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0/img/s3%20varios%20old.png) <br>
 
 ![Amazon S3 Storage Classes](https://aws.amazon.com/s3/storage-classes/?nc1=h_ls) <br>
 ![Perfomance across the S3 Storage Classes](https://github.com/zuFrost/AWS-Learn/blob/master/10%20AWS%20-%20S3%20Bucket%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C-1%20-%20%D0%92%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0/img/s3%20varios.png) <br>
