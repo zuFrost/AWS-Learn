@@ -97,6 +97,12 @@ aws s3 cp  c:\hlam  s3://destinationbucketname <br>
 aws s3 sync s3://mynewbucket  c:\MyFolder <br>
 
 # 16. AWS - Виртуальные Сервера EC2 - Часть-1 - Основы
+EC2 - Elastic Compute Cloud <br>
+![](https://github.com/zuFrost/AWS-Learn/blob/master/16%20AWS%20-%20%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0%20EC2%20-%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C-1%20-%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B/img/instances_01.png) <br>
+![](https://github.com/zuFrost/AWS-Learn/blob/master/16%20AWS%20-%20%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0%20EC2%20-%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C-1%20-%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B/img/instances_02.png) <br>
+![](https://github.com/zuFrost/AWS-Learn/blob/master/16%20AWS%20-%20%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0%20EC2%20-%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C-1%20-%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B/img/instances_03.png) <br>
+![](https://github.com/zuFrost/AWS-Learn/blob/master/16%20AWS%20-%20%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0%20EC2%20-%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C-1%20-%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B/img/instances_04.png) <br>
+
 
 # 35. AWS - Billing Alarms! - Как не влететь на деньги с AWS
 Со времени снятия ролика интерфейс поменялся. Актуальная информация на сайте https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html
