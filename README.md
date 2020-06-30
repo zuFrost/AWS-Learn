@@ -119,6 +119,16 @@ AMI - Amazon Machine Images <br>
 ## 18.3. Создание компутера из резервной копии
 ## 18.4. Присоединение дополнительного диска из Snapshot при запуске компьютера из AMI
 
+# 19. AWS - Самонастройка EC2 - Bootstrapping Linux и Windows
+
+BOOTSTRAP LOG FILES <br>
+~~~~~~~~~~~~~~~~~~~ <br>
+ <br>
+Linux                 :   /var/log/cloud-init-output.log <br>
+Windows 2016: C:\ProgramData\Amazon\EC2-Windows\Launch\UserdataExecution.log <br>
+Windows 2012: C:\Program Files\Amazon\Ec2ConfigService\Logs\Ec2ConfigLog.txt <br>
+Windows 2008: C:\Program Files\Amazon\Ec2ConfigService\Logs\Ec2ConfigLog.txt <br>
+
 
 
 # 35. AWS - Billing Alarms! - Как не влететь на деньги с AWS
