@@ -121,6 +121,7 @@ AMI - Amazon Machine Images <br>
 
 # 19. AWS - Самонастройка EC2 - Bootstrapping Linux и Windows
 ![UserData.sh](https://github.com/zuFrost/AWS-Learn/blob/master/19%20AWS%20-%20%D0%A1%D0%B0%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0%20EC2%20-%20Bootstrapping%20Linux%20%D0%B8%20Windows/UserData.sh) <br>
+![UserData.ps1](https://github.com/zuFrost/AWS-Learn/blob/master/19%20AWS%20-%20%D0%A1%D0%B0%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0%20EC2%20-%20Bootstrapping%20Linux%20%D0%B8%20Windows/UserData.ps1) <br>
 BOOTSTRAP LOG FILES <br>
 ~~~~~~~~~~~~~~~~~~~ <br>
  <br>
