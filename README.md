@@ -134,6 +134,8 @@ Windows 2008: C:\Program Files\Amazon\Ec2ConfigService\Logs\Ec2ConfigLog.txt <br
 # 21. AWS - Регистрация на Экзамен Сертификации AWS
 https://www.aws.training<br>
 
+# 22. AWS - Private IP, Public IP, Elastic IP
+
 
 # 35. AWS - Billing Alarms! - Как не влететь на деньги с AWS
 Со времени снятия ролика интерфейс поменялся. Актуальная информация на сайте https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html
