@@ -128,6 +128,8 @@ Windows 2016: C:\ProgramData\Amazon\EC2-Windows\Launch\UserdataExecution.log <br
 Windows 2012: C:\Program Files\Amazon\Ec2ConfigService\Logs\Ec2ConfigLog.txt <br>
 Windows 2008: C:\Program Files\Amazon\Ec2ConfigService\Logs\Ec2ConfigLog.txt <br>
 
+# 20. AWS - Роли доступа для EC2 - IAM Roles
+
 
 
 # 35. AWS - Billing Alarms! - Как не влететь на деньги с AWS
