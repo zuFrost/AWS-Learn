@@ -142,7 +142,7 @@ https://www.aws.training<br>
 
 # 23. AWS - Данные о Сервере EC2 - http://169.254.169.254/latest/meta-data/
 \$ curl http://169.254.169.254/latest/meta-data/placement/availability-zone <br>
-img
+![meta-data](https://github.com/zuFrost/AWS-Learn/blob/master/23%20AWS%20-%20%D0%94%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BE%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B5%20EC2%20-%20http169.254.169.254%20latest%20meta-data/meta-data.png) <br>
 
  <br>
 \$ curl http://169.254.169.254/latest/meta-data/local-ipv4 <br>
