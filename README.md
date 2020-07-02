@@ -141,6 +141,27 @@ https://www.aws.training<br>
 ![ip](https://github.com/zuFrost/AWS-Learn/blob/master/22%20AWS%20-%20Private%20IP%2C%20Public%20IP%2C%20Elastic%20IP/ip3.png) <br>
 
 # 23. AWS - Данные о Сервере EC2 - http://169.254.169.254/latest/meta-data/
+\$ curl http://169.254.169.254/latest/meta-data/placement/availability-zone <br>
+img
+
+ <br>
+\$ curl http://169.254.169.254/latest/meta-data/local-ipv4 <br>
+172.31.36.18 <br> <br>
+
+\$ curl http://169.254.169.254/latest/meta-data/placement/availability-zone <br>
+eu-central-1b <br> <br>
+
+\$ a=`curl http://169.254.169.254/latest/meta-data/placement/availability-zone`  <br>
+\$ echo $a  <br>
+eu-central-1b  <br> <br>
+
+
+
+
+
+
+
+
 
 
 # 35. AWS - Billing Alarms! - Как не влететь на деньги с AWS
