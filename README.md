@@ -131,6 +131,7 @@ Windows 2008: C:\Program Files\Amazon\Ec2ConfigService\Logs\Ec2ConfigLog.txt <br
 # 20. AWS - Роли доступа для EC2 - IAM Roles
 ![UserData.sh](https://github.com/zuFrost/AWS-Learn/blob/master/20%20AWS%20-%20%D0%A0%D0%BE%D0%BB%D0%B8%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0%20%D0%B4%D0%BB%D1%8F%20EC2%20-%20IAM%20Roles/UserData.sh) <br>
 
+# 21. AWS - Регистрация на Экзамен Сертификации AWS
 
 
 # 35. AWS - Billing Alarms! - Как не влететь на деньги с AWS
