@@ -135,6 +135,10 @@ Windows 2008: C:\Program Files\Amazon\Ec2ConfigService\Logs\Ec2ConfigLog.txt <br
 https://www.aws.training<br>
 
 # 22. AWS - Private IP, Public IP, Elastic IP
+&#9679; Private IP - адрес доступный внутри сети <br>
+&#9679; Public IP - адрес доступный из интернет <br>
+&#9679; Elastic IP - адрес доступный из интернет <br>
+![ip](https://github.com/zuFrost/AWS-Learn/blob/master/22%20AWS%20-%20Private%20IP%2C%20Public%20IP%2C%20Elastic%20IP/ip.png) <br>
 
 
 # 35. AWS - Billing Alarms! - Как не влететь на деньги с AWS
