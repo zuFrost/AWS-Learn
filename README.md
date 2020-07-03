@@ -187,6 +187,7 @@ VPC - Virtual Private Cloud
 7th step: make 2 DataBase Subnets in 2 diferend availability zone <br>
 8th step: make 2 NAT Gateway in 2 diferend Public Subnets <br>
 
+# 29. AWS - Виртуальные Сети VPC - Часть-3 - Bastion Host и проверка Сети
 
 
 
