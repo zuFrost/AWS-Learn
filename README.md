@@ -186,8 +186,13 @@ VPC - Virtual Private Cloud
 6th step: make route table for Private Subnet. <br>
 7th step: make 2 DataBase Subnets in 2 diferend availability zone <br>
 8th step: make 2 NAT Gateway in 2 diferend Public Subnets <br>
+\$ ssh -i key.pem ec2-user@10.0.12.129 <br>
+
+# 30. AWS - Виртуальные Сети VPC - Часть-4 - VPC Peering, VPN, FlowLogs
 
 # 29. AWS - Виртуальные Сети VPC - Часть-3 - Bastion Host и проверка Сети
+9th step: make Auto Scaling Group for Bastion host <br>
+- make security group with SSH in VPC  <br>
 
 
 
