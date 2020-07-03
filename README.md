@@ -193,6 +193,17 @@ VPC - Virtual Private Cloud
 - make security group with SSH in VPC  <br>
 
 # 30. AWS - Виртуальные Сети VPC - Часть-4 - VPC Peering, VPN, FlowLogs
+&#9679; VPC Flow Logs <br>
+&#9679; VPC Peering <br>
+&#9679; VPN Gateway <br>
+<br>
+&#9679; VPC Full CleanUp <br>
+
+img
+### IAM roles for publishing flow logs to CloudWatch Logs
+https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs-cwl.html <br>
+img
+img
 
 
 
