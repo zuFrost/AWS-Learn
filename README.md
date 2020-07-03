@@ -170,7 +170,9 @@ Launch Configuration +  Auto Scaling Group + Load Balancer <br>
 Пробные вопросы этого экзамена: <br>
 https://aws.amazon.com/certification/certified-devops-engineer-professional/ <br>
 
-# 27. AWS - Виртуальные Сети VPC - Часть-1
+# 27. AWS - Виртуальные Сети VPC - Часть-1]
+VPC - Virtual Private Cloud
+![VPC]() <br>
 
 
 # 35. AWS - Billing Alarms! - Как не влететь на деньги с AWS
