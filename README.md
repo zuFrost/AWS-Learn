@@ -178,6 +178,17 @@ VPC - Virtual Private Cloud
 ![VPC4](https://github.com/zuFrost/AWS-Learn/blob/master/27%20AWS%20-%20%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%A1%D0%B5%D1%82%D0%B8%20VPC%20-%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C-1/VPC4.png) <br>
 
 # 28. AWS - Виртуальные Сети VPC - Часть-2 - Создание нашей Сети
+1st step: make VPC 10.0.0.0/16 <br>
+2nd step: make Internet Gateway <br>
+3rd step: make 2 Public Subnets in 2 diferend availability zone <br>
+4th step: edit Route Table. Make routs from Public Subnets to Internet trouth Internet Gateway <br>
+5th step: make 2 Private Subnets in 2 diferend availability zone <br>
+6th step: make route table for Private Subnet. <br>
+7th step: make 2 DataBase Subnets in 2 diferend availability zone <br>
+8th step: make 2 NAT Gateway in 2 diferend Public Subnets <br>
+
+
+
 
 
 
