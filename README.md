@@ -41,7 +41,7 @@ RedHat:  <br>
 pip install awscli <br>
 
 # 9. AWS - Использование IAM, создание Users, Groups и Access Keys
-\$ aws configure <br>
+\$ aws configure <br> 
 AWS Access Key ID [None]: AKIA3YWA2YNDC5TNBIEF  <br>
 AWS Secret Access Key [None]: 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 <br>
 Default region name [None]: eu-central-1  <br>
