@@ -209,9 +209,9 @@ https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs-cwl.html <br>
 ![VPN2](https://github.com/zuFrost/AWS-Learn/blob/master/30%20AWS%20-%20%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%A1%D0%B5%D1%82%D0%B8%20VPC%20-%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C-4%20-%20VPC%20Peering%2C%20VPN%2C%20FlowLogs/VPN2.png) <br>
 
 # 31. AWS - CloudFormation - Автоматизация Инфраструктуры в Коде YAML JSON
-![cloudformation1]() <br>
+![cloudformation1](https://github.com/zuFrost/AWS-Learn/blob/master/31%20AWS%20-%20CloudFormation%20-%20%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%98%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B%20%D0%B2%20%D0%9A%D0%BE%D0%B4%D0%B5%20YAML%20JSON/cloudformation1.png) <br>
 автоматическое создание структуры из урока №27-30 <br>
-link  <br>
+![CloudFormation-VPC.yaml](https://github.com/zuFrost/AWS-Learn/blob/master/31%20AWS%20-%20CloudFormation%20-%20%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%98%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B%20%D0%B2%20%D0%9A%D0%BE%D0%B4%D0%B5%20YAML%20JSON/CloudFormation-VPC.yaml)  <br>
 
 
 
